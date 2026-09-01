@@ -54,7 +54,7 @@ const server = http.createServer((req, res) => {
 
                 <hr>
 
-                <p>My name is John Doe. I am a student interested in web development and programming.</p>
+                <p>My name is Tanvish Poojari , I am a student interested in web development and programming.</p>
             </body>
             </html>
         `;
@@ -139,7 +139,7 @@ const server = http.createServer((req, res) => {
 
                 <hr>
 
-                <p><strong>Email:</strong> johndoe@example.com</p>
+                <p><strong>Email:</strong> Tanvishp@email.com</p>
                 <p><strong>Phone:</strong> +91 9876543210</p>
                 <p><strong>City:</strong> Mumbai</p>
             </body>
