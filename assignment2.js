@@ -13,9 +13,9 @@ const server = http.createServer((req, res) => {
             <h1>Student Portal</h1>
             <hr>
 
-            <p><strong>Name:</strong> John Doe</p>
+            <p><strong>Name:</strong> Tanvish Poojari</p>
             <p><strong>Course:</strong> Full Stack Development</p>
-            <p><strong>College:</strong> XYZ College</p>
+            <p><strong>College:</strong> ITM Skills university </p>
 
             <p>Welcome to our Node.js application.</p>
         </body>
